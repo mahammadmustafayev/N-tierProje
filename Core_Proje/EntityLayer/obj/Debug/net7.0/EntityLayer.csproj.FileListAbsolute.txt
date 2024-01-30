@@ -1,0 +1,14 @@
+D:\Project\Core_Proje\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+D:\Project\Core_Proje\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+D:\Project\Core_Proje\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\Project\Core_Proje\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+D:\Project\Core_Proje\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
