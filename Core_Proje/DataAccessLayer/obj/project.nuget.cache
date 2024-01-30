@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+fyAML7yUgdT5zEiitVTyPTXxMnYJO8HvApucfCxqMKmrooTNspy/UMAhmjMgvBoqQe8U9gbL073BdKSi1jxQ==",
+  "dgSpecHash": "BiAovgSzrR0TIyBae4vzbsImy3hvR2aCpG49KUE1cDBjNVVDir0B1yWiCp6sANV9ALQSmvPCrb6MmNNruS45RQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\Project\\N-tierProje\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

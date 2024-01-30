@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YocynpMXQgPaMrqiDJfDLUhewTjxQ08s3IgBh9ndGpb4ak+Jk0c/ZpwAd/vTqrr7GsG8MxE7tIsc9pbEfKY4XQ==",
+  "dgSpecHash": "95SrL2qPHvkI6W8IkqXr5n0WSAkzgsai+/p+qnxuB/ToOkJxuaYwx8rp2AxeC+2Kd9aQFTLj5CjP6+Ut0XiJzw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\Project\\N-tierProje\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

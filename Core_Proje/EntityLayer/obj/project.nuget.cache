@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ueR1D7k6Xz3G5yyTwK/47mLFxn3i0yJ0VVOpO/IbWxR8f3SuawJlXI68vmWiB/31IL0HVvLoqOzVZyNd+3sF4Q==",
+  "dgSpecHash": "AMP3GwAYkKEMt7A2Mr8PuWZiMZ+5m5mQ7Guds9qJr/02mC8WHTwVY1DuypLvw1GJCsRFBi7KKAKPaDkypFJifQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "D:\\Project\\N-tierProje\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
