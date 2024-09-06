@@ -8,7 +8,7 @@ public class Context : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder
-        .UseSqlServer("Server=localhost;Database=CoreProject;uid=sa;pwd=247Pro!!;TrustServerCertificate=true;");
+        .UseSqlServer("Server=localhost;Database=CoreProject;Integrated Security=True;TrustServerCertificate=true;");
     }
 
 

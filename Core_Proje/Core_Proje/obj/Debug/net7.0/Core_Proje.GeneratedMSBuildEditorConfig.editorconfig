@@ -9,53 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Core_Proje
 build_property.RootNamespace = Core_Proje
-build_property.ProjectDir = D:\Project\N-tierProje\Core_Proje\Core_Proje\
+build_property.ProjectDir = C:\Users\musta\OneDrive\Masaüstü\N-tierProje\Core_Proje\Core_Proje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project\N-tierProje\Core_Proje\Core_Proje
+build_property.MSBuildProjectDirectory = C:\Users\musta\OneDrive\Masaüstü\N-tierProje\Core_Proje\Core_Proje
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Default/HeaderPartial.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Default/HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Default/Index.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Default/NavbarPartial.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Default/NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxOYXZiYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Home/Index.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Home/Privacy.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Shared/Components/FeatureList/Default.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Shared/Components/AboutList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Shared/Components/FeatureList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZUxpc3RcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Shared/Error.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/_ViewImports.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/_ViewStart.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/N-tierProje/Core_Proje/Core_Proje/Views/Shared/_Layout.cshtml]
+[C:/Users/musta/OneDrive/Masaüstü/N-tierProje/Core_Proje/Core_Proje/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jm3q05z1tp

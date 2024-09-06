@@ -1,487 +1,487 @@
 {
   "Files": [
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Core_Proje.bundle.scp.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Core_Proje.bundle.scp.css",
       "PackagePath": "staticwebassets\\Core_Proje.bundle.scp.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\aos7359.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\aos7359.css",
       "PackagePath": "staticwebassets\\superFlio\\css\\aos7359.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\bootstrap-icons7359.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\bootstrap-icons7359.css",
       "PackagePath": "staticwebassets\\superFlio\\css\\bootstrap-icons\\bootstrap-icons7359.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff",
       "PackagePath": "staticwebassets\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff2",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff2",
       "PackagePath": "staticwebassets\\superFlio\\css\\bootstrap-icons\\fonts\\bootstrap-icons63f3.woff2"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap.min7359.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\bootstrap.min7359.css",
       "PackagePath": "staticwebassets\\superFlio\\css\\bootstrap.min7359.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\css\\all.min7359.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\css\\all.min7359.css",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\css\\all.min7359.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-brands-400d41d.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-regular-400d41d.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
       "PackagePath": "staticwebassets\\superFlio\\css\\font-awesome\\webfonts\\fa-solid-900d41d.eot"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\main7359.css",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\css\\main7359.css",
       "PackagePath": "staticwebassets\\superFlio\\css\\main7359.css"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\avatar.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\avatar.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\avatar.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\illustrations\\hello3.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\illustrations\\hello3.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\illustrations\\hello3.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\marker.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\marker.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\marker.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\1-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\1-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\1-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\1.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\1.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\1.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\2-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\2-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\2-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\3-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\3-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\3-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\4-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\4-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\4-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\4.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\4.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\4.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\5-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\5-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\5-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\5.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\5.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\5.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\6-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\6-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\6-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\6.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\6.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\6.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\7-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\7-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\7-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\7.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\7.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\7.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\8-small.png",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\8-small.png",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\8-small.png"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\8.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\portfolio\\8.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\portfolio\\8.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\app-development.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\app-development.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\services\\app-development.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\full-stack.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\full-stack.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\services\\full-stack.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\graphic-design.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\graphic-design.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\services\\graphic-design.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\ui-ux.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\ui-ux.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\services\\ui-ux.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\web-design.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\services\\web-design.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\services\\web-design.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client1.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client1.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\testimonials\\client1.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client2.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client2.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\testimonials\\client2.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client3.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client3.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\testimonials\\client3.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client4.jpg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\testimonials\\client4.jpg",
       "PackagePath": "staticwebassets\\superFlio\\images\\testimonials\\client4.jpg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\wave-bg.svg",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\images\\wave-bg.svg",
       "PackagePath": "staticwebassets\\superFlio\\images\\wave-bg.svg"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\BigPicture.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\BigPicture.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\BigPicture.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\aos.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\aos.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\aos.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\bootstrap.bundle.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\bootstrap.bundle.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\bootstrap.bundle.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\imagesloaded.pkgd.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\imagesloaded.pkgd.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\imagesloaded.pkgd.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\main7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\main7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\main7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\masonry.pkgd.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\masonry.pkgd.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\masonry.pkgd.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\purecounter.min7359.js",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\scripts\\purecounter.min7359.js",
       "PackagePath": "staticwebassets\\superFlio\\scripts\\purecounter.min7359.js"
     },
     {
-      "Id": "D:\\Project\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\super-folio.html",
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\N-tierProje\\Core_Proje\\Core_Proje\\wwwroot\\superFlio\\super-folio.html",
       "PackagePath": "staticwebassets\\superFlio\\super-folio.html"
     },
     {
