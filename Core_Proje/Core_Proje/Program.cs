@@ -9,6 +9,22 @@ public class Program
         // Add services to the container.
         builder.Services.AddControllersWithViews();
 
+
+
+        //builder.Services.AddIdentity<AppUser, AppRole>(opt =>
+        //{
+        //    opt.User.RequireUniqueEmail = true;
+        //    opt.Password.RequiredLength = 8;
+        //    opt.Password.RequireDigit = true;
+        //    opt.Password.RequireLowercase = true;
+        //    opt.Password.RequireUppercase = true;
+        //    opt.Password.RequireNonAlphanumeric = true;
+        //})
+        //    .AddDefaultTokenProviders()
+        //    .AddEntityFrameworkStores<Context>();
+
+        //builder.Services.AddScoped<IAuthService, AuthManager>();
+
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
@@ -24,8 +40,13 @@ public class Program
 
         app.UseRouting();
 
+        app.UseAuthentication();
         app.UseAuthorization();
 
+        app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+            );
         app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Default}/{action=Index}/{id?}");
